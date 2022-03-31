@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My x</string>
+    <string name="header">войти или зарегистрироваться</string>
+    <string name="info">Мы отправим на номер SMS-сообщение с кодом подтверждения</string>
+    <string name="extra_info">При входе вы соглашаетесь</string>
+    <string name="extra_info2">с условиями</string>
+    <string name="button_text">ПОЛУЧИТЬ КОД</string>
+    <string name="phone_number_text">+7 (___) ___-__-__</string>
+    <string name="toolbar_text">Обратная связь</string>
+    <string name="text_for_checkbox1">Я даю согласие на обработку своих персональных данных. С </string>
+    <string name="text_for_checkbox2">политикой обеспечния безопасности</string>
+    <string name="text_for_checkbox3">персональных данных САО "РЕСО-Гарантия" ознакомлен.</string>
+    <string name="text_for_name">Иванов Иван</string>
+    <string name="text_for_phone_number">+7 (904) 519-20-75</string>
+    <string name="text_for_mail">ivan@mail.ru</string>
+    <string name="text_for_theme">Тема обращения</string>
+    <string name="text_for_comment">Комментарий</string>
+    <string name="big_text_contact_center">Бонусы к аннулированию в феврале(на основании рассчетов от 25.06.2017): Если вы производили списание в феврале, количество бонусов к аннулированию уменьшается на количество списанных бонусов</string>
+</resources>
